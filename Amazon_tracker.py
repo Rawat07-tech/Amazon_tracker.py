@@ -61,3 +61,7 @@ def check_price():
 
 # Function ko call karna mat bhoolna
 check_price()
+
+# Function ko call karna mat bhoolna
+
+check_price()
